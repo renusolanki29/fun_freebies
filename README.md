@@ -1,2 +1,2 @@
-# fun_freebies
-A game created using python
+# random_fun_stuff
+I upload some fun stuff here
